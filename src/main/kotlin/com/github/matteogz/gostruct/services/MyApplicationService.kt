@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.matteogz.gostruct.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.matteogz.gostruct.MyBundle
 
 class MyApplicationService {
 
