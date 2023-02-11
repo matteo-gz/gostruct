@@ -1,3 +1,6 @@
+practice developing  jetbrain 's plug for golang 
+
+
 # gostruct
 
 ![Build](https://github.com/matteo-gz/gostruct/workflows/Build/badge.svg)
